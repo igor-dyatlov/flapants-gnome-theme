@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Flapants
+Type=X-GNOME-Metatheme
+Comment=There is Flat Design-like modern-flat theme
+Encoding=UTF-8
+GtkTheme=Flapants
+MetacityTheme=Flapants
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
