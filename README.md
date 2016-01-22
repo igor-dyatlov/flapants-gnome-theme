@@ -1,1 +1,4 @@
 # Flapants Gnome Theme
+
+## Installation
+
